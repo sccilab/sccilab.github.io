@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "SCCI Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SCCI Lab at IIT Ropar."
 sitemap: false
 permalink: /
 ---
