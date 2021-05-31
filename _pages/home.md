@@ -67,6 +67,6 @@ Collaborative research is our major strength. Every individual in the team posse
 We are grateful for funding from [NPTEL](https://nptel.ac.in/) and the [Department of Science and Technology](https://dst.gov.in/)), India.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nptel.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dst.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nptel.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dst.png" style="width: 150px">
 </figure>
