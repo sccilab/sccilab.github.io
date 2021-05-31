@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the [Indian Institute of Technology Ropar](http://www.iitrpr.ac.in). headed by [Dr. Sudarshan Iyengar](http://sudarshaniyengar.com), who obtained his doctorate degree from Indian Institute of Science, Bangalore. The team comprises of a number of doctorate, graduate and undergraduate students mainly from the field of Computer Science and Mathematics.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -57,11 +57,9 @@ We are a dynamic research group at the [Indian Institute of Technology Ropar](ht
 </div>
 
 
+The research in our team is not limited to Collective Intelligence and Human Computer Interaction, but also covers Knowledge Building, Natural Language Processing and a lot more. The team is not restricted to a particular domain of knowledge but is interested in doing any project that is mentally challenging and calls for a number of exciting brainstorming sessions.
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+Collaborative research is our major strength. Every individual in the team possess a unique ability. A mind may be good at reading, writing, expressing, observing, or understanding. Malgudi is the unity of all these powers. It’s less of a research team, but more of a new heavenly world, where an educated minority resides with an aim to take the world one step ahead.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
