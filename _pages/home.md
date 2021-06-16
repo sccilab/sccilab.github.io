@@ -43,7 +43,7 @@ We are a dynamic research group at the [Indian Institute of Technology Ropar](ht
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wiki_workshop.jpeg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cpr02.jpeg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
