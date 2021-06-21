@@ -1,5 +1,5 @@
 - name: Rishi Ranjan Singh
-  photo: verdoes.jpg
+  photo: rishi.jpg
   duration: In the SCCI Lab 2012 - 2016, now Asst. Prof at IIT Bhilai
   info: Former PhD Scholar, Social Network Analysis
   email: verdoes@fmd.physics.leidenuniv.nl
@@ -10,19 +10,25 @@
   education4:
 
 - name: Yayati Gupta
-  photo: irene.jpg
+  photo: yayati.jpg
   info: Former PhD Scholar, Social Network Analysis
   duration: In the SCCI Lab 2012 - 2017, now Asst. Prof at Mahindra University
   email: Battisti@Physics.LeidenUniv.nl
 
 - name: Akrati Saxena
-  photo: Doohee2.jpg
+  photo: akrati.jpg
   info: Formar PhD Scholar, Social Network Analysis
   duration: In the SCCI Lab 2012 - 2017, now Asst. Prof at Mahindra University
   email: cho@physics.leidenuniv.nl
 
+- name: Varsha Bhat
+  photo: varsha.jpg
+  info: Formar PhD Scholar, Privacy Preserving Social Networks
+  email: M.Leeuwenhoek@tudelft.nl
+  duration: In the SCCI Lab 2013 - 2020, now postdoc researcher at IISC
+
 - name: Anamika Chhabra
-  photo: Maarten.png
+  photo: Anamika.jpg
   info: Formar PhD Scholar, Knowledge Building
   email: M.Leeuwenhoek@tudelft.nl
   duration: In the SCCI Lab 2016 - 2021, now Data Scientist at NPTEL
